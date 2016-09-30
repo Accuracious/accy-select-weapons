@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "custom/g3a3_reticle"
+	"$translucent" 1
+	"$selfillum" 1
+}

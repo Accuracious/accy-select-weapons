@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/bo3_locus/i_wpn_t7_sniper_locus_decals_c"
+	"$translucent" 1
+}
